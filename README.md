@@ -4,9 +4,9 @@ Chez **[Bynome](https://www.bynome.ai/)**, je construis une **intelligence artif
 
 **Ce que je construis**
 
-- 🤖 **Agents IA autonomes et spécialisés** : des agents qui prennent en charge une tâche métier de bout en bout, jusqu'à l'agent vocal qui répond et oriente les appels en temps réel
-- 📄 **Workflows d'automatisation intelligents** : lecture, classement et extraction automatiques de documents, reliés aux outils comptables et métier
-- 🧠 **Pipelines RAG et bases de connaissance dédiées** : recherche sémantique et assistants contextuels sur les données propres de l'entreprise
+- 🤖 **Agents IA autonomes et spécialisés** : des agents qui prennent en charge une tâche métier de bout en bout,
+- 📄 **Workflows d'automatisation intelligents** : lecture, classement, extraction et traitements automatiques,
+- 🧠 **Pipelines RAG et bases de connaissance dédiées** : recherche sémantique et assistants contextuels sur datasets
 - 🔒 **Intégration et déploiement d'outils IA locaux** : LLM, transcription, OCR et embeddings hébergés on-premise, avec déploiement continu, contrôles de santé et supervision
 
 **Stack**
