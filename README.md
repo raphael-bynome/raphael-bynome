@@ -21,6 +21,11 @@ Chez **[Bynome](https://www.bynome.ai/)**, je construis une **intelligence artif
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
+**Projets open source**
+
+- [**approved-merge-guard**](https://github.com/raphael-bynome/approved-merge-guard) : GitHub Action qui ne laisse partir en production que les PR approuvées par une autre personne et vertes, même sur le plan GitHub gratuit
+- [**ollama-ping**](https://github.com/raphael-bynome/ollama-ping) : sonde de santé et de latence pour Ollama (premier jeton, chargement, débit), sortie JSON ou Prometheus
+
 **Me joindre** · [bynome.ai](https://www.bynome.ai/)
 
 <sub>La plupart de mon travail se passe dans des dépôts privés : le calendrier ci-dessous en donne le rythme.</sub>
