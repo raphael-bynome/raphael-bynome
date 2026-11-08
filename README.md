@@ -23,6 +23,7 @@ Chez **[Bynome](https://www.bynome.ai/)**, je construis une **intelligence artif
 
 **Projets open source**
 
+- [**fr-pii-guard**](https://github.com/raphael-bynome/fr-pii-guard) : repère et masque les données personnelles françaises (IBAN, NIR, SIRET, TVA…) avant qu'elles n'atteignent un LLM, clés de contrôle vérifiées, middleware FastAPI
 - [**approved-merge-guard**](https://github.com/raphael-bynome/approved-merge-guard) : GitHub Action qui ne laisse partir en production que les PR approuvées par une autre personne et vertes, même sur le plan GitHub gratuit
 - [**ollama-ping**](https://github.com/raphael-bynome/ollama-ping) : sonde de santé et de latence pour Ollama (premier jeton, chargement, débit), sortie JSON ou Prometheus
 
